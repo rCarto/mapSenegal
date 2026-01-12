@@ -18,7 +18,7 @@ Authors@R:
 			       comment = c(ORCID = "0000-0001-5872-2872", "GADM database")))
 Description: Administrative boundaries of Senegal at several levels (regions,
     departements, arrondissements and communes), based on 'GDAM', are provided. 
-    The package also gives access to localities, universities and health
+    The package also gives access to localities, universities, roads and health
     facilities locations. 
 Depends: R (>= 3.5.0), sf
 Suggests: mapsf

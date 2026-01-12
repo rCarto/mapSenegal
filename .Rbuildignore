@@ -2,3 +2,4 @@
 ^\.Rproj\.user$
 data-raw
 notes.md
+^README\.Rmd$
